@@ -56,11 +56,13 @@ section.imagem > p{
 }
 section#imagem1{
     background-image: url(imagens/background001.jpg);
+    background-size: cover;
     background-position: right center;
     box-shadow: 2px 2px 12px 2px rgba(0, 0, 0, 0.534);
 }
 section#imagem2{
     background-image: url(imagens/background002.jpg);
+    background-size: cover;
     background-position: left center;
     box-shadow: 2px 2px 12px 2px rgba(0, 0, 0, 0.534);
 }
